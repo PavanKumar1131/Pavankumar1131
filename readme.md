@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Online Task & Productivity Tracker – Web Application**
 
-- 🌱 I’m currently learning **React Native Framework**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on **Pavan's Portfolio**
 
