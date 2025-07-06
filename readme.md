@@ -1,34 +1,12 @@
 <h1 align="center">Hi 👋, I'm Pokala Pavan Kumar</h1>
 
-<h3 align="center">
-  <span class="typewriter">A passionate fullstack developer from India</span>
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=500&color=FF7400&center=true&vCenter=true&width=1000&lines=A+PASSIONATE+FULLSTACK+DEVELOPER+FROM+INDIA" alt="Typing SVG" />
+</p>
 
-<style>
-  .typewriter {
-    display: inline-block;
-    overflow: hidden;
-    border-right: .15em solid orange;
-    white-space: nowrap;
-    margin: 0 auto;
-    letter-spacing: .1em;
-    animation:
-      typing 3.5s steps(40, end),
-      blink-caret .75s step-end infinite;
-  }
-
-  @keyframes typing {
-    from { width: 0 }
-    to { width: 100% }
-  }
-
-  @keyframes blink-caret {
-    from, to { border-color: transparent }
-    50% { border-color: orange; }
-  }
-</style>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavankumar1131&label=Profile%20views&color=0e75b6&style=flat" alt="pavankumar1131" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=pavankumar1131&label=Profile%20views&color=0e75b6&style=flat" alt="pavankumar1131" />
+</p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -49,6 +27,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavan kumar pokala" height="30" width="40" />
   </a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -107,6 +87,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
 </p>
+
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavankumar1131&show_icons=true&locale=en&layout=compact" alt="pavankumar1131" /></p>
 
