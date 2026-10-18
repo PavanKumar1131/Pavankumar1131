@@ -32,9 +32,6 @@
   </a>
 </p>
 
-<p>
-  📧 <a href="mailto:pavanpokala113@gmail.com">pavanpokala113@gmail.com</a>
-</p>
 
 ---
 
